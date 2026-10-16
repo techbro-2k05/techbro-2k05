@@ -29,17 +29,6 @@ When I am not deep into systems architecture, you will usually find me solving c
 
 ---
 
-### Featured Projects
-
-| Project | Key Technologies | What it does |
-| :--- | :--- | :--- |
-| **[PaySync](https://github.com/techbro-2k05/paysync)** | Go, DAGs | A transaction reconciliation engine built using directed acyclic graphs. Won first place at the BNY Hackathon. |
-| **[Wizflow](https://github.com/techbro-2k05/wizflow)** | FastAPI, Redis, WebSockets, React | A visual workflow automation platform featuring real-time execution nodes. Secured second place at the Nutanix Hackathon. |
-| **[Scholar AI](https://github.com/techbro-2k05/scholar-ai)** | Django, FastAPI, Llama 3 via Ollama, PostgreSQL | An offline NLP document evaluation pipeline designed for automated research paper analysis. |
-| **[Ephemeral Drop](https://github.com/techbro-2k05/drop-safe)** | Node.js, Express, Redis, Docker, React | A time-gated, self-destructing secret sharing application for secure single-read payloads. |
-
----
-
 ### Stuff I Have Picked Up Along the Way
 
 - Won 1st rank at the BNY Hackathon with PaySync.
