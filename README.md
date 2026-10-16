@@ -9,12 +9,12 @@
 
 ### About Me
 
-I am a Computer Science undergraduate at IIT BHU Varanasi who loves building things that scale. Whether it is designing robust backend systems or optimizing high-throughput data engines, I enjoy writing code that holds up under pressure. 
+I am a Computer Science undergraduate at IIT (BHU) Varanasi who loves building things that scale. Whether it is designing robust backend systems or optimizing high-throughput data engines, I enjoy writing code that holds up under pressure. 
 
 When I am not deep into systems architecture, you will usually find me solving competitive programming problems, experimenting with local LLMs, or picking up an acrylic paintbrush when I need a break from screens. 
 
 - Current Focus: Distributed systems, backend engineering, and local AI orchestration.
-- Recent Stuff: Software engineering intern at Goldman Sachs, and looking forward to joining them full time.
+- Recent Stuff: Completed Software engineering internship at Goldman Sachs, and looking forward to joining them full time.
 - Competitive Programming: CodeChef 5 Star (algorhythm_05) and Codeforces Expert (techbro_2k05).
 
 ---
@@ -46,16 +46,6 @@ When I am not deep into systems architecture, you will usually find me solving c
 - Secured 2nd rank at the Nutanix Hackathon with Wizflow.
 - Scored All India Rank 972 in JEE Advanced out of over 200,000 candidates.
 - Served as Technical Head for CodeFest IIT BHU as well as the Head of the Academics Council.
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-</div>
-
 ---
 
 ### Let us Connect
