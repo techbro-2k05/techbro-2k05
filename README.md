@@ -1,9 +1,9 @@
 # Hi, I am Sairaj Nitin Chavan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairajchavan2k05/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/techbro_2k05)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5★-orange?style=flat&logo=codechef)](https://www.codechef.com/users/algorhythm_05)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=react)](https://your-portfolio-link.com)
+
 
 ---
 
@@ -33,10 +33,10 @@ When I am not deep into systems architecture, you will usually find me solving c
 
 | Project | Key Technologies | What it does |
 | :--- | :--- | :--- |
-| **[PaySync](https://github.com/yourhandle/paysync)** | Go, DAGs | A transaction reconciliation engine built using directed acyclic graphs. Won first place at the BNY Hackathon. |
-| **[Wizflow](https://github.com/yourhandle/wizflow)** | FastAPI, Redis, WebSockets, React | A visual workflow automation platform featuring real-time execution nodes. Secured second place at the Nutanix Hackathon. |
-| **[Scholar AI](https://github.com/yourhandle/scholar-ai)** | Django, FastAPI, Llama 3 via Ollama, PostgreSQL | An offline NLP document evaluation pipeline designed for automated research paper analysis. |
-| **[Ephemeral Drop](https://github.com/yourhandle/ephemeral-drop)** | Node.js, Express, Redis, Docker, React | A time-gated, self-destructing secret sharing application for secure single-read payloads. |
+| **[PaySync](https://github.com/techbro-2k05/paysync)** | Go, DAGs | A transaction reconciliation engine built using directed acyclic graphs. Won first place at the BNY Hackathon. |
+| **[Wizflow](https://github.com/techbro-2k05/wizflow)** | FastAPI, Redis, WebSockets, React | A visual workflow automation platform featuring real-time execution nodes. Secured second place at the Nutanix Hackathon. |
+| **[Scholar AI](https://github.com/techbro-2k05/scholar-ai)** | Django, FastAPI, Llama 3 via Ollama, PostgreSQL | An offline NLP document evaluation pipeline designed for automated research paper analysis. |
+| **[Ephemeral Drop](https://github.com/techbro-2k05/drop-safe)** | Node.js, Express, Redis, Docker, React | A time-gated, self-destructing secret sharing application for secure single-read payloads. |
 
 ---
 
@@ -60,8 +60,8 @@ When I am not deep into systems architecture, you will usually find me solving c
 
 ### Let us Connect
 
-- Email: your.email@iitbhu.ac.in
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Email: sairaj.chavan2k05@gmail.comn
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sairajchavan2k05/)
 - Profiles: [Codeforces](https://codeforces.com/profile/techbro_2k05) | [CodeChef](https://www.codechef.com/users/algorhythm_05)
 
 ---
