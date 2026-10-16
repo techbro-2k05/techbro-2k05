@@ -40,7 +40,7 @@ When I am not deep into systems architecture, you will usually find me solving c
 ### Let us Connect
 
 - Email: sairaj.chavan2k05@gmail.comn
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/sairajchavan2k05/)
+- LinkedIn: [profile](https://www.linkedin.com/in/sairajchavan2k05/)
 - Profiles: [Codeforces](https://codeforces.com/profile/techbro_2k05) | [CodeChef](https://www.codechef.com/users/algorhythm_05)
 
 ---
